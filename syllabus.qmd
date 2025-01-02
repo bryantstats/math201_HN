@@ -10,6 +10,9 @@ editor: visual
 knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
 ```
 
+## Class Zoom Meeting
+
+[Zoom Meeting](https://bryant.zoom.us/j/4419675207)
 
 ## Course Description
 
