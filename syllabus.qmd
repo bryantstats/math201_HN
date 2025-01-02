@@ -27,13 +27,15 @@ A.  Connection to General Education:
 
 -   UN Sustainable Development Goals (SDGs) focused upon:
 
-    -   #3 Good Health and Well-Being
-    -   #4 Quality Education
-    -   #8 Decent Work and Economic Growth
+    - #7 Affordable and Clean Energy
+    - #9 Industry, Innovation, and Infrastructure
+    - #11 Sustainable Cities and Communities
+
 
 B. Mathematical Focus
 
-MATH 110 is an applied mathematics course that presents a mathematical way of thinking and provides students with experiential opportunities to explore how to quantitatively analyze complex problems. Four general areas are covered: a review of mathematical functions and their applications; the mathematics of finance; creation, use, and interpretation of models involving real-world data; and linear programming and optimization. Applications are relevant for sustainability issues, business and management, economics and finance, and the social and natural sciences.
+In this course, students are taught the concepts necessary for data and statistical analysis and inference, in the context of real-world-type data analysis and modeling. Topics include data exploration, data visualization, descriptive statistics, classical probability, probability distributions, confidence intervals, and hypothesis testing,simple linear regression, and correlation. 
+
 
 ## Textbook
 
@@ -41,13 +43,13 @@ MATH 110 is an applied mathematics course that presents a mathematical way of th
 
 ## Course Objectives
 
-After successfully completing this course, each student will
+After successfully completing this course, the students can
 
--   define basic mathematics functions including polynomial, logarithmic and exponential functions
--   model real-world dataset using appropriate mathematics functions
--   explain the applications of exponential functions in finance use these functions in solving problems in finance
--   implement linear programming technique in solving optimization problems
--   compute the derivatives of basic mathematics functions and apply the derivatives to solve optimization problems
+- implement data visualization and data exploration techniques.
+- explain the sampling approach in statistical inference.
+- run and explain the results of common statistical hypothesis tests. 
+- run and explain the results of linear regressions.
+- compute confidence intervals for common parameters. 
 
 ## Grades
 
@@ -120,9 +122,9 @@ p
 
 We will occasionally discuss and work with data related to the [United Nation Sustainable Development Goals](https://sdgs.un.org/goals). These goals are called by the UN for action in a global partnership to provide peace and prosperity for people and the planet, now and into the future. Specifically, we will focus one of the following three SDGs:
 
--   [SDG 3](https://www.globalgoals.org/goals/3-good-health-and-well-being/): Good Health & wellbeing\
--   [SDG 4](https://www.globalgoals.org/goals/4-quality-education/): Quality Education\
--   [SDG 8](https://www.globalgoals.org/goals/8-decent-work-and-economic-growth/): Decent Work and Economic Growth
+-   [SDG 7 - Affordable and Clean Energy](https://www.globalgoals.org/goals/7-affordable-and-clean-energy/)
+-   [SDG 9 - Affordable and Clean Energy](https://www.globalgoals.org/goals/9-industry-innovation-and-infrastructure/)
+-   [SDG 11 - Sustainable Cities and Communities](https://www.globalgoals.org/goals/11-sustainable-cities-and-communities/)
 
 ## Academic Misconduct
 
