@@ -2,8 +2,8 @@
 
 [Syllabus](syllabus.html)
 
-| Date        | Section/Topic                  | Notes    |Homework     |
-|:------------|:------------|:------------|:-------------------------------------|
-| **Week 1**  |                                |    |                    |
-| 9/4         |   Population and Sample          | [Note]()|| 
+| Date        | Section/Topic| Notes    |
+|:------------|:------------|:------------|
+| **Week 1**  |             |             |                    
+| 9/4         |   Population and Sample   | [Note]()|
 
