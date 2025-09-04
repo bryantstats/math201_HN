@@ -10,10 +10,6 @@ editor: visual
 knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
 ```
 
-## Class Zoom Meeting
-
-[Zoom Meeting](https://bryant.zoom.us/j/4419675207)
-
 ## Course Description
 
 This course both satisfies the Quantitative Reasoning Requirement in the General Education Curriculum and serves as a foundational course for other mathematics courses.
@@ -39,7 +35,9 @@ In this course, students are taught the concepts necessary for data and statisti
 
 ## Textbook
 
--   No text books required
+-   Bluman, Allan G. “Elementary Statistics: A Step by Step Approach : A Brief Version” Eighth
+edition, McGraw-Hill Education Publishing. ISBN 978–0–07–338610–2
+
 
 ## Course Objectives
 
@@ -53,14 +51,15 @@ After successfully completing this course, the students can
 
 ## Grades
 
+
 ```{r}
 # install.packages("ggplot2")
 library(ggplot2)
 library(dplyr)
 # Variables
 
-Percentage = c(.7,.3)
-Grades = c('Assignments','Attendance')
+Percentage = c(.05, .1, .6, .25)
+Grades = c('Attendance', 'Assignments','Midterm - Exams', 'Final Exam')
 
 df = data.frame(Grades = Grades, Percentage = Percentage, labels = paste0(Percentage*100, "%"))
 
@@ -74,9 +73,44 @@ ggplot(df, aes(x = "", y = Percentage, fill = Grades)) +
   theme_void()
 ```
 
--   *Assignments*: Tentatively, the assignments and case studies will be done during class where you can ask questions.
+-  *Midterm Exams*: Tentatively, there are three Midterm exams, and each is worth 20%. A formula sheet (1 page) is allowed or included in the exam. Makeup exam will only be given to students who provide a valid written excuse BEFORE the date of the exam. The approved makeup exam should be taken no later than a week after the actual one. The grades posted on Canvas are official, and permanent after a week they are posted. The problems in the exams will be similar to those in the assignments and practice exams.
 
--   *Attendance*: The class have totally 15 meetings. Each time you attend a meeting, your total grade will be increased by 1.5%.
+-   *Assignments*: Most of the assignments will be given and graded in class.
+
+-   *Attendance*: Attendance will be checked regularly in class. Missing fewer than three classes will  The grade for attendance (5%) is enough to move up a letter grade. You are responsible for obtaining course material missed during an absence. 
+
+## Exam Policies:
+
+- All students are expected to be prepared for and take the assessment in class on the day it is
+given.
+
+- You must contact me by email before the assessment if you will not be present for the
+assessment. Failure to notify me before the scheduled assessment will result in revocation of
+the privilege to a make-up quiz/exam. The format of the make-up quiz/exam may be different
+from the original quiz/exam.
+
+- All quiz/exams must be made-up within one week of the day it was originally given.
+
+## Excel 
+
+We will be using Excel to build on topics we will be learning in class. Excel is located on your
+Bryant issued laptop. Please access Excel before our first use to make sure there are no issues. If there
+are, please bring your laptop to the Help Desk or Laptop Central. It is expected that you bring your
+fully charged laptop to class on Excel days (denoted in the course schedule). Please bring your Bryant
+issued laptop these days as Macs have different directions and slow the process of a whole class
+activity.
+
+## Calculator 
+
+A scientific calculator is required for this course and should be brought to class every
+day. A calculator is needed for every exam and
+quiz in this course.
+
+## Cell Phones 
+
+Cell phone use during class is strongly discouraged. Cell phone use during an exam
+is prohibited. It cannot be used as a calculator. Use of cell phones or any electronic device during
+an assessment will result in a score of “0” for that assessment.
 
 ## Grades Scale
 
