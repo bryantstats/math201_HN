@@ -77,7 +77,7 @@ ggplot(df, aes(x = "", y = Percentage, fill = Grades)) +
 
 -   *Assignments*: Most of the assignments will be given and graded in class.
 
--   *Attendance*: Attendance will be checked regularly in class. Missing fewer than three classes will  The grade for attendance (5%) is enough to move up a letter grade. You are responsible for obtaining course material missed during an absence. 
+-   *Attendance*: Attendance will be checked regularly in class. Missing fewer than three classes will guarantee your full credit for attendance. The grade for attendance (5%) is enough to move up a letter grade. You are responsible for obtaining course material missed during an absence. 
 
 ## Exam Policies:
 
