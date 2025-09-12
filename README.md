@@ -9,5 +9,7 @@
 | **Week 2**  |             |             |                    
 | 9/8         |   Sampling Techniques   | [Note](notes/Sampling Techniques  .docx)|
 |             |   Parameters vs. Statistics   | [Note](notes/Parameter_vs_Statistics.docx)|
+| 9/11        |   Descriptive vs. Inferential Statistics   | [Note](notes/Descriptive_Inferential_print.docx)|
+|             |   Descriptive Statistics: Measure of Central Tendency   | [Note](notes/Descriptive_Statistics_Measure_Center.docx)|
 
 
