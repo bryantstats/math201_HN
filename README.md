@@ -1,4 +1,4 @@
-# Math 201.  Statistics I
+# Math 201HN.  Statistics I
 
 [Syllabus](syllabus.html)
 
@@ -11,5 +11,8 @@
 |             |   Parameters vs. Statistics   | [Note](notes/Parameter_vs_Statistics.docx)|
 | 9/11        |   Descriptive vs. Inferential Statistics   | [Note](notes/Descriptive_Inferential_print.docx)|
 |             |   Descriptive Statistics: Measure of Central Tendency   | [Note](notes/Descriptive_Statistics_Measure_Center.docx)|
+| **Week 3**  |             |             |                    
+| 9/15         |  Measure of Variance    | [Note 1](Descriptive_Statistics_Measure_Variation.docx), [Note 2](-Note-10-15_annotated.pdf) |
+|             |      |  |
 
 
