@@ -13,6 +13,6 @@
 |             |   Descriptive Statistics: Measure of Central Tendency   | [Note](notes/Descriptive_Statistics_Measure_Center.docx)|
 | **Week 3**  |             |             |                    
 | 9/15         |  Measure of Variation    | [Note 1](notes/Descriptive_Statistics_Measure_Variation2.docx), [Note 2](notes/-Note-10-15_annotated.pdf) |
-| 9/18         |  Measure of Variation    | [Note](notes/Descriptive_Statistics_Measure_Variation_9_18.pdf) |
+| 9/18         |  Measure of Variation    | [Note](notes/Descriptive_Statistics_Measure_Variation_9_18.pdf), [Practice Problems](notes/Practice_Problems.pdf) |
 |             |      |  |
 
